@@ -1,8 +1,8 @@
 {
   "id": 0,
-  "name": "",
-  "uri": "",
-  "httpsApi": "",
-  "httpApi": "",
-  "type": ""
+  "name": "无尽",
+  "uri": "http://wujinzy.com/",
+  "httpsApi": "http://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/?ac=list",
+  "httpApi": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/?ac=list",
+  "type": "__index"
 }
