@@ -2,7 +2,7 @@
   "id": 0,
   "name": "无尽",
   "uri": "http://wujinzy.com/",
-  "httpsApi": "http://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/?ac=list",
-  "httpApi": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/?ac=list",
+  "httpsApi": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+  "httpApi": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
   "type": "__index"
 }
